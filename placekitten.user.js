@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name     PlaceKitten
 // @require  http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js
+// @oujs:author emilien-puget
 // ==/UserScript==
 
 this.$ = this.jQuery = jQuery.noConflict(true);
